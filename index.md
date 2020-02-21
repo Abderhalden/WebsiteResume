@@ -1,4 +1,5 @@
 <html>
+	<link href="StyleSheet.css" rel="stylesheet">
 	<body>
 		<h1>Hello World</h1>
 		<h3>Discord bot</h3>
