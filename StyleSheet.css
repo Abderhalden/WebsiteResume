@@ -1,0 +1,14 @@
+body { 
+	background: 58, 58, 58); 
+	color: gray;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+h1 { 
+	color: rgb(93, 93, 93); 
+}
+button {
+	background: gray;
+	border: none;
+	color: white;
+}
