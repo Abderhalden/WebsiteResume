@@ -1,10 +1,9 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
-
 	<link href="StyleSheet.css" rel="stylesheet">
-
 	<body>
 		<h1>Hello World</h1>
 		<div class="dropdown">
@@ -23,6 +22,4 @@
 		</ul>
 		<p>I'm hosted with GitHub Pages.</p>
 	</body>
-
-
 </html>
