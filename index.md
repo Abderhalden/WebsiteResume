@@ -8,12 +8,19 @@
 		<h1>Hello World</h1>
 		<div class="dropdown">
   			<button class="dropbtn">
-  				Dropdown
+  				Projects
   			</button>
   			<div class="dropdown-content">
-    			<a href="#">Link 1</a>
-    			<a href="#">Link 2</a>
-   				<a href="#">Link 3</a>
+    			<a href="#">1</a>
+    			<a href="#">2 2</a>
+   				<a href="#">3 3</a>
+  			</div>
+  			<button class="dropbtn">
+  				Contact Me
+  			</button>
+  			<div class="dropdown-content">
+    			<a href="#">LinkedIn</a>
+    			<a href="#">Send an Email</a>
   			</div>
 		</div>
 		<h3>Discord bot</h3>
