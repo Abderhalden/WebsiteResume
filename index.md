@@ -7,7 +7,7 @@
 	<body>
 		<h1>Hello World</h1>
 		<div class="dropdown">
-  			<button class="dropbtn">
+  			<button class="projectDrop">
   				Projects
   			</button>
   			<div class="dropdown-content">
@@ -15,7 +15,7 @@
     			<a href="#">2 2</a>
    				<a href="#">3 3</a>
   			</div>
-  			<button class="dropbtn">
+  			<button class="contactDrop">
   				Contact Me
   			</button>
   			<div class="dropdown-content">
@@ -29,4 +29,4 @@
 		</ul>
 		<p>I'm hosted with GitHub Pages.</p>
 	</body>
-</html>
+</html> 
