@@ -1,11 +1,9 @@
 <html>
-	<head>  
-		<title>My Page!</title>
-	</head>
 	<body>
 		<h1>Hello World</h1>
 		<h2>Hello World</h2>
 		<h3>Hello World</h3>
+		<p>Lorem Ipsum</p>
 		<p>I'm hosted with GitHub Pages.</p>
 	</body>
 </html>
