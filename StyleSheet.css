@@ -1,6 +1,5 @@
 body { 
 	background: 58, 58, 58); 
-	color: gray;
 	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
@@ -13,7 +12,7 @@ button {
 	color: white;
 }
 
-.dropbtn {
+<!––.dropbtn {
   background-color: #4CAF50;
   color: white;
   padding: 16px;
@@ -46,4 +45,4 @@ button {
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #3e8e41;} ––>
