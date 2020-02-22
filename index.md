@@ -12,8 +12,8 @@
   			</button>
   			<div class="dropdown-content">
     			<a href="#">1</a>
-    			<a href="#">2 2</a>
-   				<a href="#">3 3</a>
+    			<a href="#">2</a>
+   				<a href="#">3</a>
   			</div>
   		</div>
   		<div class="dropdown">
@@ -21,7 +21,7 @@
   				Contact Me
   			</button>
   			<div class="dropdown-content">
-    			<a href="#">LinkedIn</a>
+    			<a href="https://www.linkedin.com/in/joshua-allen-b47726197/">LinkedIn</a>
     			<a href="#">Send an Email</a>
   			</div>
 		</div>
