@@ -15,6 +15,8 @@
     			<a href="#">2 2</a>
    				<a href="#">3 3</a>
   			</div>
+  		</div>
+  		<div class="dropdown">
   			<button class="contactDrop">
   				Contact Me
   			</button>
