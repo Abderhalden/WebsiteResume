@@ -22,6 +22,8 @@ button
 	border: none;
 	color: white;
 }
+#projectDrop , #contactDrop {
+display:inline-block;
 
 .dropbtn 
 {

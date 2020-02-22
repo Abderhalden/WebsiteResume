@@ -5,7 +5,7 @@
 	</head>
 	<link href="StyleSheet.css" rel="stylesheet">
 	<body>
-		<h1>Hello World</h1>
+		<h1>Joshua Allen</h1>
 		<div class="dropdown">
   			<button class="projectDrop">
   				Projects
